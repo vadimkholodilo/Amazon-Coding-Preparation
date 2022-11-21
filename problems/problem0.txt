@@ -1,0 +1,7 @@
+This example problem description can be used to create your own problem descriptions, so all problems in the repo will follow the same style.
+Source: source can be a link, a book name or anything what can help to find this problem.
+For example:
+source: https://www.educative.io/blog/crack-amazon-coding-interview-questions?eid=5082902844932096
+Problem:
+Problem description goes here
+
