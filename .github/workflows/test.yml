@@ -25,5 +25,4 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f ./problems/requirements.txt ]; then pip install -r ./problems/requirements.txt; fi
     - name: Test with pytest
-      run: |
-      cd ./problems &&  pytest
+      run: cd ./problems && pytest
